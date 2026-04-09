@@ -102,8 +102,11 @@ Based on these findings, the extreme values were determined to be valid and stra
 
 ### 5.7 Derived Columns
 The following columns were added during the cleaning and preparation phase: 
+
  brand (products table): Added to capture brand information per product for deeper segmentation analysis.
+ 
 user_id (order_items table): Added to enable direct customer level analysis at the item level without requiring an additional join through orders.
+
 item_total (order_items table): Derived as item_price × quantity to capture total value per line item, avoiding repeated calculation in analysis queries
 
 
