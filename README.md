@@ -9,4 +9,4 @@ SQL-based growth analytics case study examining revenue trends, customer segment
 ## Full Documentation
 For complete analysis, methodology, findings and 
 business recommendations see 
-[Documentation.md](documentation.md)
+[Documentation.md](Documentation.md)
