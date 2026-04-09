@@ -55,12 +55,12 @@ and personal details are fictitious.
 
 | Table | Rows | Description |
 |-------|------|-------------|
-| users.csv | ~10,000 | Customer profiles and demographics |
-| products.csv | ~2,000 | Product catalog with pricing and ratings |
-| orders.csv | ~20,000 | Order level transactions |
-| order_items.csv | ~60,000 | Items purchased per order |
-| reviews.csv | ~15,000 | Customer product reviews |
-| events.csv | ~80,000 | User behaviour logs |
+| users.csv | 10,000 | Customer profiles and demographics |
+| products.csv | 2,000 | Product catalog with pricing and ratings |
+| orders.csv | 20,000 | Order level transactions |
+| order_items.csv | 60,000 | Items purchased per order |
+| reviews.csv | 15,000 | Customer product reviews |
+| events.csv | 80,000 | User behaviour logs |
 
 **Entity Relationship:**
 - users → orders (via user_id)
