@@ -1,15 +1,24 @@
 # E-Commerce Growth Analytics: An SQL analysis of an e-commerce business.
 
 ## Table of Contents
- [Project Overview](#1-project-overview)
+1. [Project Overview](#1-project-overview)
+   
 2. [Business Context](#2-business-context)
+   
 3. [Dataset Description](#3-dataset-description)
+   
 4. [Tools Used](#4-tools-used)
+   
 5. [Data Cleaning](#5-data-cleaning)
+   
 6. [Exploratory Data Analysis](#6-exploratory-data-analysis)
+   
 7. [Growth Analytics](#7-growth-analytics)
+ 
 8. [Key Findings & Business Recommendations](#8-key-findings--business-recommendations)
+   
 9. [Limitations](#9-limitations)
+   
 10. [Conclusion](#10-conclusion)
 
 
