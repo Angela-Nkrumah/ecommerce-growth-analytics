@@ -165,11 +165,15 @@ Meanwhile, the “good” and “average” tiers are doing the heavy lifting in
 
 ###  Revenue is being driven by spikes but not stability
  Revenue growth is highly volatile, with sharp increases followed by equally sharp declines. This pattern shows that growth is being driven by short-term triggers (promotions, campaigns, seasonal demand) rather than consistent customer behavior. This has a negative effect on the business’s chance of being able to predict revenue which is often dangerous for planning, marketing spend, and cash flow.
+ 
 Recommendation:
  Shift focus from campaign-driven sales to retention-driven revenue to increase customer lifetime value. This can be achieved by introducing:
 Email/SMS remarketing flows.
+
 Personalized product recommendations.
+
 Subscription or repeat purchase incentives (especially for groceries, beauty).
+
 Track repeat purchase rate as a core KPI, not just revenue
 
 
@@ -178,10 +182,14 @@ Track repeat purchase rate as a core KPI, not just revenue
 
 Recommendation:
 Build a customer lifecycle strategy. This can be achieved by giving onboarding offers on first purchases, incentives (discount, bundle) on second purchases, and loyalty reward on third purchases.
+
 Introduce:
 Loyalty programs
+
 Retargeting ads for past buyers
+
 Post-purchase engagement (email, reviews, upsell)
+
 This will help solve the leaky bucket problem of the business whereby customers come in, spend once and leave.
 
 
@@ -191,17 +199,27 @@ Customers seem to be interested in products, they even show intent , but somethi
 massive 74.5% drop from cart to purchase. This can be the business’single biggest growth opportunity.
 
 Recommendation:
+
 Audit checkout experience:
+
 Are there hidden costs (shipping, taxes)?
+
 Is checkout too long or complex?
+
 Are payment options limited?
+
 Add:
 Guest checkout
+
 Multiple payment methods
+
 Trust signals (reviews, guarantees)
+
 Implement:
 Cart abandonment emails
+
 Exit-intent offers.
+
 Fixing this alone can increase revenue without acquiring a single new customer.
 
 
@@ -211,15 +229,24 @@ A massive portion of potential revenue is being lost after customers have alread
 
 Recommendation:
 Investigate root causes by asking ans answering these questions.
+
 What are the product quality issues?
+
 Are there any misleading descriptions/images?
+
 What are the causes for delivery delays?
+
 When those questions are answered, fix them with:
+
 Better product pages (clear specs, real images)
+
 Size guides (for clothing)
+
 Customer reviews displayed prominently
+
 Track:
 Return rate by product/category
+
 Without fixing these problems, scaling marketing will just scale losses.
 
 
@@ -230,6 +257,7 @@ Not all categories deserve equal attention, but right now, they’re being treat
 Recommendation:
 Strong e-commerce businesses don’t try to win everywhere; rather they focus where margins and demand are strongest. To achieve this for the business,
 Double down on high-performing categories. This can be done by ensuring stock availability and running target promotions.
+
 Fix “almost there” categories by improving retention through bundles and subscriptions.
 Re-evaluate weak categories by reducing inventory or repositioning them.
 
@@ -239,23 +267,31 @@ Re-evaluate weak categories by reducing inventory or repositioning them.
 
 Recommendation:
 In as much as “poor” are still generating high revenue, Selling low-rated products may boost short-term revenue, but it kills trust and retention long-term. In other to fix the problem with the various tier products;
+
 Increase visibility of high-rated products by featuring them on the homepage and use a top rated section.
+
 Fix low-rated products by improving quality or remove them if that is not possible.
+
 Encourage reviews by using a post-purchase prompt and incentives feedback.
+
 Making ratings more visible at the point of decision could shift purchasing behaviour toward higher quality products over time.
 
 
 ### Geographic growth is early-stage and under-leveraged
 Cities like New Michael, Lake John, Michaelmouth show strong growth but low total customers. The business  has early traction markets which are not yet saturated.
+
 Recommendation:
 For an e-commerce business to successfully expand, traction needs to be identified early and scale aggressively on it. In order to achieve this in these locations:
+
 Double down on these cities by introducing and promoting localized ads, faster delivery options and city-specific promotions.
+
 For stagnant cities, re-evaluate marketing channels and test new acquisition strategies.
 
 
 ## 9. Limitations
 - Dataset is synthetic and may not reflect 
   real world business complexity
+  
 - City level geography only. A regional or 
   country level would enable broader market analysis
 
