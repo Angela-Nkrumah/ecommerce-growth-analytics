@@ -33,7 +33,9 @@ clean, and analyse data entirely through SQL, producing insights through structu
 
 ## 2. Business Context
 **Business Type:** E-commerce retail platform
+
 **Data Period:** 2024–2025
+
 **Key Business Questions:**
 1. How is revenue growing month on month?
 2. Which customer segments are driving growth?
